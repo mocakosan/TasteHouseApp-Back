@@ -1,6 +1,4 @@
-## Matzip Server
-
-> Inflearn, Kyo
+## TasteHouseApp Server
 
 ## 실행
 
